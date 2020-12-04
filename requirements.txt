@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+stop-words
+joblib
+wordcloud
+matplotlib
